@@ -1,0 +1,18 @@
+{
+  "name": "claude-workflow-starter",
+  "version": "1.0.0",
+  "description": "Minimal Claude Code Dynamic Workflow demonstrating fan-out parallel agents — weekly AI news digest",
+  "type": "module",
+  "main": "workflow.js",
+  "scripts": {
+    "lint": "node --input-type=module --eval \"import('./workflow.js')\"",
+    "test": "echo 'Trigger via Claude Code: include the word workflow in your prompt'"
+  },
+  "engines": { "node": ">=18" },
+  "keywords": ["claude","claude-code","claude-workflows","anthropic","ai-agent","multi-agent","parallel-agents","mcp","workflow","ai-news"],
+  "author": "RLASAF12",
+  "license": "MIT",
+  "peerDependencies": {
+    "@anthropic-ai/claude-code-workflows": ">=1.0.0"
+  }
+}
