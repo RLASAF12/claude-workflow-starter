@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-starters](https://github.com/RLASAF12/agent-starters/tree/main/claude-workflow-starter) (folder `claude-workflow-starter/`, full history preserved). Archived 2026-10-04.
+
 # claude-workflow-starter
 
 > **Minimal working example of Claude Code Dynamic Workflows** — fan-out parallel agents that collect, merge, and output a weekly AI news digest.
